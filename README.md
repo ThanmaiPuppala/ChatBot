@@ -12,3 +12,5 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 # CHATBOT
+
+A chatbot built with React is a dynamic UI component that simulates conversation, typically using state management for messages and API calls for AI responses. It combines React's component architecture with backend integration to provide real-time, interactive user communication.
