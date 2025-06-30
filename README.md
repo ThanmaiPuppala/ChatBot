@@ -16,3 +16,7 @@ If you are developing a production application, we recommend using TypeScript wi
 A chatbot built with React is a dynamic UI component that simulates conversation, typically using state management for messages and API calls for AI responses. It combines React's component architecture with backend integration to provide real-time, interactive user communication.
 
 <img width="1406" alt="Screenshot 2025-06-27 at 8 45 37 PM" src="https://github.com/user-attachments/assets/85f7f285-a546-4876-943d-d8892b646b98" />
+
+# Features:
+- Real-Time Messaging – Instant message rendering with smooth animations.
+
