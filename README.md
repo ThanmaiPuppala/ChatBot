@@ -19,7 +19,10 @@ A chatbot built with React is a dynamic UI component that simulates conversation
 
 # Features:
 ✅ Real-Time Messaging – Instant message rendering with smooth animations.
+
 ✅ Typing Indicators – Shows "Bot is typing..." for better UX.
+
 ✅ Quick Replies – Predefined buttons for faster responses.
+
 ✅ Multi-Media Support – Embeds images, links, and videos in responses.
 
