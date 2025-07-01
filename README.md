@@ -27,7 +27,10 @@ A chatbot built with React is a dynamic UI component that simulates conversation
 ## 🚀 Tech Stack
 
 - **Vite** – Fast development build tool
+  
 - **React** – Front-end UI library
+
+- - **CSS**-Lightweight styling without unnecessary dependencies
 
 
 
