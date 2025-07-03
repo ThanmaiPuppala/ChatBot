@@ -43,9 +43,9 @@ A chatbot built with React is a dynamic UI component that simulates conversation
 
 - [License](##license)
 
-## 🔧 Installation
+## 🔧 Installa
 
-Clone the repository:https://github.com/ThanmaiPuppala/EVO-GYM.git
+Clone the repository:(https://github.com/ThanmaiPuppala/ChatBot.git)
 
 Install dependencies:npm install
 
