@@ -45,7 +45,7 @@ A chatbot built with React is a dynamic UI component that simulates conversation
 
 ## 🔧 Installa
 
-Clone the repository:(https://github.com/ThanmaiPuppala/ChatBot.git)
+Clone the repository:([https://github.com/ThanmaiPuppala/ChatBot.git](https://github.com/ThanmaiPuppala/ChatBot.git))
 
 Install dependencies:npm install
 
