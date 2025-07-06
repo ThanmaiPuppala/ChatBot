@@ -50,3 +50,7 @@ Clone the repository:([https://github.com/ThanmaiPuppala/ChatBot.git](https://gi
 Install dependencies:npm install
 
 Running the Application:npm run build
+
+## 📜 License
+
+This project is licensed under the MIT License.Feel Free to use and modify it.
