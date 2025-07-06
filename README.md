@@ -35,7 +35,7 @@ A chatbot built with React is a dynamic UI component that simulates conversation
 
 ## 📑 Table Of Contents
 
--[OverView](#chatbot)
+- [OverView](#chatbot)
 
 - [Tech Stack](##tech_stack)
 
